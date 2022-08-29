@@ -1,0 +1,7 @@
+sidekick:
+  apiKey: 6d0fa2d6-4926-4666-9c52-0b621978f705
+  agent:
+    application:
+      name: java-practise
+      stage: dev
+      version: 1.0.1-SNAPSHOT
